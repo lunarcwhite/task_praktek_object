@@ -43,7 +43,7 @@ const singa = {
     class: 'mamalia',
     order: 'carnivora',
     family: 'felidae',
-    genus: 'felis',
+    genus: 'panthera',
     species: 'leo',
 }
 console.log('~~~~~~ Klasifikasi Singa ~~~~~~')
